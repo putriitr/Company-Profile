@@ -1,4 +1,5 @@
-<div class="banner_section layout_padding">
+<div id="home" class="banner_section layout_padding">
+    <div class="banner_overlay"></div>
     <div class="container">
        <div id="banner_slider" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
@@ -6,51 +7,17 @@
                 <div class="row">
                    <div class="col-md-12">
                       <div class="banner_taital_main">
-                         <h1 class="banner_taital">Toko <br>Elektronik</h1>
-                         <p class="banner_text">Temukan barang elektronik yang anda cari dengan kualitas <br/>terbaik dan harga yang terjangkau </p>
+                         <h1 class="banner_taital">PT. Simplay <br>Abyakta Mediatek</h1>
+                         <p class="banner_text">Simplay : Your Digital Solutions <br>"Where Simplicity Meets Innovation"</p>
                          <div class="btn_main">
-                            <div class="about_bt active"><a href="/about">About Us</a></div>
-                            <div class="callnow_bt"><a href="contact">Call Now</a></div>
-                         </div>
-                      </div>
-                   </div>
-                </div>
-             </div>
-             <div class="carousel-item">
-                <div class="row">
-                   <div class="col-md-12">
-                      <div class="banner_taital_main">
-                         <h1 class="banner_taital">Toko <br>Elektronik</h1>
-                         <p class="banner_text">Temukan barang elektronik yang anda cari dengan kualitas <br/>terbaik dan harga yang terjangkau </p>
-                         <div class="btn_main">
-                            <div class="about_bt active"><a href="#">About Us</a></div>
-                            <div class="callnow_bt"><a href="#">Call Now</a></div>
-                         </div>
-                      </div>
-                   </div>
-                </div>
-             </div>
-             <div class="carousel-item">
-                <div class="row">
-                   <div class="col-md-12">
-                      <div class="banner_taital_main">
-                         <h1 class="banner_taital">Toko <br>Elektronik</h1>
-                         <p class="banner_text">Temukan barang elektronik yang anda cari dengan kualitas <br/>terbaik dan harga yang terjangkau </p>
-                         <div class="btn_main">
-                            <div class="about_bt active"><a href="#">About Us</a></div>
-                            <div class="callnow_bt"><a href="#">Call Now</a></div>
+                            <div class="callnow_bt"><a href="https://www.simplay.co.id/" target="_blank" rel="noopener noreferrer">Our Office</a></div>
+                            <div class="callnow_bt"><a href="#footer">Contact Us</a></div>
                          </div>
                       </div>
                    </div>
                 </div>
              </div>
           </div>
-          <a class="carousel-control-prev" href="#banner_slider" role="button" data-slide="prev">
-          <i class="fa fa-arrow-left"></i>
-          </a>
-          <a class="carousel-control-next" href="#banner_slider" role="button" data-slide="next">
-          <i class="fa fa-arrow-right"></i>
-          </a>
        </div>
     </div>
  </div>
