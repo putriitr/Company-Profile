@@ -1,1 +1,1 @@
-UI Display Design for the Company Profile Website of PT. Simplay Abykata Mediatek
+UI Display Design for the Company Profile Website of PT. Simplay Abyakta Mediatek
